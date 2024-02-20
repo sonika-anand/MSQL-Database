@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS `Parks_and_Recreation`;
-CREATE DATABASE `Parks_and_Recreation`;
-USE `Parks_and_Recreation`;
+DROP DATABASE IF EXISTS `Parks_and_Recreation 1`;
+CREATE DATABASE `Parks_and_Recreation 1`;
+USE `Parks_and_Recreation 1`;
 
 
 
